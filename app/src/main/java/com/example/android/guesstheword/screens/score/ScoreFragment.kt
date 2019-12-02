@@ -26,7 +26,7 @@ import androidx.lifecycle.ViewModelProviders
 import androidx.navigation.fragment.navArgs
 import com.example.android.guesstheword.R
 import com.example.android.guesstheword.databinding.ScoreFragmentBinding
-
+//jj
 /**
  * Fragment where the final score is shown, after the game is over
  */
